@@ -1,7 +1,7 @@
 [gd_scene load_steps=4 format=3 uid="uid://dvp4ohivh0pe1"]
 
 [ext_resource type="Texture2D" uid="uid://oga1xybkwxhi" path="res://assets/volvox1.png" id="1_if51i"]
-[ext_resource type="Script" path="res://scripts/enemy.gd" id="1_yk7q3"]
+[ext_resource type="Script" uid="uid://cepyi4fcegnn4" path="res://scripts/enemy.gd" id="1_yk7q3"]
 
 [sub_resource type="CircleShape2D" id="CircleShape2D_uivwy"]
 radius = 200.0

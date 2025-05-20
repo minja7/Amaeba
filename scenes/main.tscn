@@ -1,8 +1,8 @@
 [gd_scene load_steps=12 format=3 uid="uid://ot2jepuoq7ja"]
 
-[ext_resource type="Script" path="res://scenes/main.gd" id="1_jtqcu"]
+[ext_resource type="Script" uid="uid://d085quk20wb7i" path="res://scenes/main.gd" id="1_jtqcu"]
 [ext_resource type="PackedScene" uid="uid://bdj3uylvvchyc" path="res://scenes/Actor.tscn" id="1_xhbqu"]
-[ext_resource type="Script" path="res://scenes/ParallaxBackground.gd" id="4_lv2sc"]
+[ext_resource type="Script" uid="uid://ctjlqnl5dnddi" path="res://scenes/ParallaxBackground.gd" id="4_lv2sc"]
 [ext_resource type="PackedScene" uid="uid://b522udno2h2ng" path="res://scenes/enemy1.tscn" id="4_rbixb"]
 [ext_resource type="Texture2D" uid="uid://d6tjlu54muvd" path="res://assets/dirty-grunge-vintage-backgrounds-textures-3e98b5 (2).jpg" id="5_8ak44"]
 [ext_resource type="Texture2D" uid="uid://byd8ierqtv7yq" path="res://assets/circlemask.png" id="6_kmxkh"]
